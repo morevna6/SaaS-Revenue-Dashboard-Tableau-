@@ -111,6 +111,11 @@ Reveals shifts in market dynamics and growth opportunities.
 
 ---
 
+## Live Dashboard
+[View Dashboard](https://public.tableau.com/app/profile/g.n.aydo.an/viz/GnAydogan-TableauHomework2-SaaSRevenueAnalysis/Dashboard1)
+
+---
+
 ## Conclusion
 
 This dashboard demonstrates how SaaS performance can be analyzed through a combination of revenue metrics, user behavior, and regional insights.
